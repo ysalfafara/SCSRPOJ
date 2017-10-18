@@ -4,6 +4,7 @@ from django.db import models
 
 class ReviewSite(models.Model):
     reviews = models.CharField(max_length=2000)
-    ratingdate = models.CharField(max_length=250)
+    rating_date = models.CharField(max_length=250)
     rating = models.CharField(max_length=100)
     site = models.CharField(max_length=100)
+    sentiment = models.CharField(max_length=100)
