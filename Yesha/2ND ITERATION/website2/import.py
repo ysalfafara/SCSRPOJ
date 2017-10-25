@@ -1,5 +1,4 @@
 import csv,sys,os
-import django
 from sample.models import ReviewSites
 
 
