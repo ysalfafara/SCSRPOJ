@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="832b9b6b-c275-4e75-a8f5-697f7a6463b0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="wordcloud.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/word_cloud-master/wordcloud/wordcloud.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-952">
+              <caret line="33" column="28" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="33" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="180" />
+    <option name="y" value="164" />
+    <option name="width" value="931" />
+    <option name="height" value="371" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="word_cloud-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="word_cloud-master" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="word_cloud-master" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="word_cloud-master" type="462c0819:PsiDirectoryNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="832b9b6b-c275-4e75-a8f5-697f7a6463b0" name="Default" comment="" />
+      <created>1509010415801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509010415801</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1669107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/word_cloud-master/examples/simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <marker date="1505476490000" expanded="true" signature="22:142" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1505476490000" expanded="false" signature="144:195" ph="import ..." />
+            <marker date="1505476490000" expanded="true" signature="372:424" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="688:778" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_cloud-master/test/test_wordcloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3519">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505476490000" expanded="true" signature="0:372" ph="import ..." />
+            <marker date="1505476490000" expanded="true" signature="403:1266" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1505476490000" expanded="true" signature="1293:1568" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="1598:2024" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="2049:2542" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="2567:2852" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="2874:3471" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="3507:3721" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="3751:4010" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="4037:4435" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="4119:4198" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="4283:4360" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="4457:5039" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="5066:5275" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="5294:5954" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="5299:5383" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="5986:6705" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="6742:7009" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="7036:7230" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="7274:7451" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="7491:7726" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="7762:7875" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="7907:8256" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_cloud-master/test/test_wordcloud_cli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505476490000" expanded="true" signature="0:285" ph="import ..." />
+            <marker date="1505476490000" expanded="true" signature="451:806" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="831:931" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="960:1537" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="1641:1811" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="1855:2364" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="2412:2569" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="2616:2761" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="2801:3170" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="2843:3098" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="3212:3504" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="3247:3504" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="3534:3643" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="3685:4086" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="3775:3943" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="4136:4294" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="4326:4506" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="4537:4983" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_cloud-master/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505476490000" expanded="true" signature="0:91" ph="import ..." />
+            <marker date="1505476490000" expanded="true" signature="605:713" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_cloud-master/examples/a_new_hope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505476490000" expanded="true" signature="22:126" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1505476490000" expanded="false" signature="128:278" ph="import ..." />
+            <marker date="1505476490000" expanded="true" signature="390:447" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="477:584" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="653:778" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_cloud-master/examples/colored_by_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="91" column="25" lean-forward="true" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+          <folding>
+            <marker date="1505476490000" expanded="true" signature="22:184" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1505476490000" expanded="false" signature="186:274" ph="import ..." />
+            <marker date="1505476490000" expanded="true" signature="314:1102" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="319:731" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1505476490000" expanded="true" signature="787:997" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="818:952" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="1038:1102" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="1136:2366" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="1141:1623" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1505476490000" expanded="true" signature="1679:1901" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="1716:1828" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="1938:2268" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="2018:2162" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="2067:2160" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="2309:2366" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="2376:3237" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1505476490000" expanded="true" signature="3394:3874" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="3480:3652" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="3722:3872" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="3877:3985" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="4010:4176" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_cloud-master/examples/constitution.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_cloud-master/examples/emoji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505476490000" expanded="true" signature="22:859" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1505476490000" expanded="false" signature="860:935" ph="import ..." />
+            <marker date="1505476490000" expanded="true" signature="1090:1240" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="1726:1794" ph="..." />
+            <marker date="1505476490000" expanded="true" signature="1929:1981" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_cloud-master/examples/masked.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505476490000" expanded="true" signature="22:126" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1505476490000" expanded="false" signature="128:264" ph="import ..." />
+            <marker date="1505476490000" expanded="true" signature="364:475" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_cloud-master/wordcloud/wordcloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-952">
+          <caret line="33" column="28" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="33" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
