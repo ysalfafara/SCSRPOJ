@@ -1,0 +1,121 @@
+site,review,month,day,year,rate,sentiment
+booking,The location,Jan,30,2017,91,pos
+booking,The view,Jan,30,2017,81,pos
+booking,lake was great,Feb,30,2017,81,pos
+booking,great room,Jan,30,2017,87,pos
+booking,awesome,Jan,30,2017,87,pos
+booking,had a blast,Feb,30,2017,89,pos
+booking,majestic,Mar,30,2017,87,pos
+booking,i will come back,Jan,30,2017,80,pos
+booking,nice,Feb,30,2017,95,pos
+booking,great,Mar,30,2017,100,pos
+agoda,ew,Jan,30,2017,91,neg
+agoda,yuck,Mar,30,2017,64,neg
+agoda,the worse hotel,Feb,30,2017,74,neg
+agoda,pricey,Jan,30,2017,81,neg
+agoda,bad,Jan,30,2017,50,neg
+tripadvisor,rude staffs,Mar,30,2017,68,neg
+tripadvisor,not great,Jan,30,2017,71,neg
+tripadvisor,i will not come back,Feb,30,2017,81,neg
+tripadvisor,not nice,Feb,30,2017,82,neg
+tripadvisor,not great,Jan,30,2017,83,neg
+booking,The location,Mar,30,2017,91,pos
+booking,The view,Mar,30,2017,81,pos
+booking,lake was great,Apr,30,2017,81,pos
+booking,great room,Apr,30,2017,87,pos
+booking,awesome,May,30,2017,87,pos
+booking,had a blast,Feb,30,2017,89,pos
+booking,majestic,Apr,30,2017,87,pos
+booking,i will come back,May,30,2017,80,pos
+booking,nice,May,30,2017,95,pos
+booking,great,May,30,2017,100,pos
+agoda,ew,Feb,30,2017,91,neg
+agoda,yuck,May,30,2017,64,neg
+agoda,the worse hotel,May,30,2017,74,neg
+agoda,pricey,Feb,30,2017,81,neg
+agoda,bad,Jan,30,2017,50,neg
+tripadvisor,rude staffs,Mar,30,2017,68,neg
+tripadvisor,not great,Jun,30,2017,71,neg
+tripadvisor,i will not come back,Jun,30,2017,81,neg
+tripadvisor,not nice,Jul,30,2017,82,neg
+tripadvisor,not great,Jun,30,2017,83,neg
+booking,The location,Jul,30,2017,91,pos
+booking,The view,Aug,30,2017,81,pos
+booking,lake was great,Aug,30,2017,81,pos
+booking,great room,Apr,30,2017,87,pos
+booking,awesome,May,30,2017,87,pos
+booking,had a blast,Aug,30,2017,89,pos
+booking,majestic,Apr,30,2017,87,pos
+booking,i will come back,May,30,2017,80,pos
+booking,nice,May,30,2017,95,pos
+booking,great,Jul,30,2017,100,pos
+agoda,ew,Apr,30,2017,91,neg
+agoda,yuck,Apr,30,2017,64,neg
+agoda,the worse hotel,May,30,2017,74,neg
+agoda,pricey,Apr,30,2017,81,neg
+agoda,bad,Apr,30,2017,50,neg
+tripadvisor,rude staffs,Jun,30,2017,68,neg
+tripadvisor,not great,Jun,30,2017,71,neg
+tripadvisor,i will not come back,Jul,30,2017,81,neg
+tripadvisor,not nice,Jun,30,2017,82,neg
+tripadvisor,not great,Jul,30,2017,83,neg
+booking,The location,Aug,30,2017,91,pos
+booking,The view,Aug,30,2017,81,pos
+booking,lake was great,Sep,30,2017,81,pos
+booking,great room,Sep,30,2017,87,pos
+booking,awesome,Aug,30,2017,87,pos
+booking,had a blast,Aug,30,2017,89,pos
+booking,majestic,Apr,30,2017,87,pos
+booking,i will come back,Sep,30,2017,80,pos
+booking,nice,Sep,30,2017,95,pos
+booking,great,Jul,30,2017,100,pos
+agoda,ew,Apr,30,2017,91,neg
+agoda,yuck,Sep,30,2017,64,neg
+agoda,the worse hotel,Sep,30,2017,74,neg
+agoda,pricey,Apr,30,2017,81,neg
+agoda,bad,Apr,30,2017,50,neg
+tripadvisor,rude staffs,Sep,30,2017,68,neg
+tripadvisor,not great,Jun,30,2017,71,neg
+tripadvisor,i will not come back,Jul,30,2017,81,neg
+tripadvisor,not nice,Jun,30,2017,82,neg
+tripadvisor,not great,Sep,30,2017,83,neg
+booking,The location,Sep,30,2017,91,pos
+booking,The view,Sep,30,2017,81,pos
+booking,lake was great,Sep,30,2017,81,pos
+booking,great room,Sep,30,2017,87,pos
+booking,awesome,Oct,30,2017,87,pos
+booking,had a blast,Oct,30,2017,89,pos
+booking,majestic,Oct,30,2017,87,pos
+booking,i will come back,Sep,30,2017,80,pos
+booking,nice,Sep,30,2017,95,pos
+booking,great,Oct,30,2017,100,pos
+agoda,ew,Oct,30,2017,91,neg
+agoda,yuck,Oct,30,2017,64,neg
+agoda,the worse hotel,Sep,30,2017,74,neg
+agoda,pricey,Nov,30,2017,81,neg
+agoda,bad,Nov,30,2017,50,neg
+tripadvisor,rude staffs,Nov,30,2017,68,neg
+tripadvisor,not great,Nov,30,2017,71,neg
+tripadvisor,i will not come back,Nov,30,2017,81,neg
+tripadvisor,not nice,Nov,30,2017,82,neg
+tripadvisor,not great,Sep,30,2017,83,neg
+booking,The location,Nov,30,2017,91,pos
+booking,The view,Nov,30,2017,81,pos
+booking,lake was great,Nov,30,2017,81,pos
+booking,great room,Nov,30,2017,87,pos
+booking,awesome,Oct,30,2017,87,pos
+booking,had a blast,Oct,30,2017,89,pos
+booking,majestic,Oct,30,2017,87,pos
+booking,i will come back,Dec,30,2017,80,pos
+booking,nice,Nov,30,2017,95,pos
+booking,great,Oct,30,2017,100,pos
+agoda,ew,Dec,30,2017,91,neg
+agoda,yuck,Dec,30,2017,64,neg
+agoda,the worse hotel,Sep,30,2017,74,neg
+agoda,pricey,Nov,30,2017,81,neg
+agoda,bad,Nov,30,2017,50,neg
+tripadvisor,rude staffs,Nov,30,2017,68,neg
+tripadvisor,not great,Nov,30,2017,71,neg
+tripadvisor,i will not come back,Dec,30,2017,81,neg
+tripadvisor,not nice,Dec,30,2017,82,neg
+tripadvisor,not great,Dec,30,2017,83,neg
